@@ -1,7 +1,6 @@
 name: easyman
 description: Easy state manager for Flutter
 version: 0.0.1
-author: JaeHo Song
 homepage: https://github.com/thruthesky/easyman
 
 environment:
