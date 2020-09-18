@@ -1,8 +1,8 @@
 name: easyman
-description: A new Flutter package project.
+description: Easy state manager for Flutter
 version: 0.0.1
-author:
-homepage:
+author: JaeHo Song
+homepage: https://github.com/thruthesky/easyman
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
